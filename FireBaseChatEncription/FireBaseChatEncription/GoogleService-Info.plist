@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>977495139601-c8oc8t9fedqhbuf0jqp30ivcgd99d6sh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.977495139601-c8oc8t9fedqhbuf0jqp30ivcgd99d6sh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCc2YYFW7pT3dFVob43HXruSWLONKEr8fo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>977495139601</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>pawan.FireBaseChatEncription</string>
+	<key>PROJECT_ID</key>
+	<string>encriptchat</string>
+	<key>STORAGE_BUCKET</key>
+	<string>encriptchat.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:977495139601:ios:506565741d0381eb</string>
+	<key>DATABASE_URL</key>
+	<string>https://encriptchat.firebaseio.com</string>
+</dict>
+</plist>
